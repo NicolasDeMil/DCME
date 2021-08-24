@@ -16,7 +16,7 @@
   },
   "resolutions": {
     "glob-parent": "5.1.2",
-    "tar": "3.2.3",
+    "tar": "4.4.2",
     "trim-newlines": "3.0.1"
   }
 }
